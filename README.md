@@ -2,22 +2,14 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to FrontEnd/Web.
 - 📫 How to reach me: 1669940775@qq.com
 - 😄 Read more about my JueJin: [here](https://juejin.cn/user/1627704066072712)
 
 ### GitHub 数据统计
-<div style="display: "flex";" align="center">
+![](https://github-readme-stats.vercel.app/api?username=zjunbin1286&show_icons=true&theme=transparent)  &nbsp; ![GitHub Streak](https://streak-stats.demolab.com/?user=zjunbin1286)   
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=zjunbin1286)
-
-  ![](https://github-readme-stats.vercel.app/api?username=zjunbin1286&show_icons=true&theme=transparent)
-</div>
-
-
-
-### My Own Project
-
+### My Projects
 [npm-registry-nrs](https://github.com/zjunbin1286/npm-registry-nrs) 
 
 [![NPM version][npm-image]][npm-url]
