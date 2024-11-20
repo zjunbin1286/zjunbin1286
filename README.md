@@ -1,12 +1,3 @@
-<div align="center">
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-</div>
-
 ### Hi there 👋,I'm Joey.
 
 - 🔭 I’m currently working on something cool.
@@ -15,12 +6,48 @@
 - 📫 How to reach me: 1669940775@qq.com
 - 😄 Read more about my JueJin: [here](https://juejin.cn/user/1627704066072712)
 
-![](https://github-readme-stats.vercel.app/api?username=zjunbin1286&show_icons=true&theme=transparent)
+### GitHub 数据统计
+<div style="display: "flex";" align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=zjunbin1286)
+
+  ![](https://github-readme-stats.vercel.app/api?username=zjunbin1286&show_icons=true&theme=transparent)
+</div>
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/zjunbin1286/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Own Project
+
+[npm-registry-nrs](https://github.com/zjunbin1286/npm-registry-nrs) 
+
+[![NPM version][npm-image]][npm-url]
+📦 npm-registry-nrs is an NPM source manager that allows you to quickly switch between NPM sources and supports managing image sources through addition, deletion, modification, and querying.
+（npm-registry-nrs 是一个 npm 源管理器，允许你快速地在 npm 源间切换，并且支持通过增删改查等管理镜像源。）
+
+
+[react-router-keepalive](https://github.com/zjunbin1286/react-router-keepalive) 
+
+🔥 基于 React Router 实现的 KeepAlive 缓存组件（KeepAlive caching component based on React Router implementation）
+
+
+[react-ui-design](https://github.com/zjunbin1286/react-ui-design) 
+
+✨ 适用于 React 的简洁优雅的组件库（A concise and elegant component library suitable for React）
+
+
+[react-router-keepalive](https://github.com/zjunbin1286/easypress) 
+
+🚀 A static site generator for the modern web
+
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-f5d82e?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Vue-1c8139?style=for-the-badge&logo=Vue&logoColor=white)
+![](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/HTML5-fc3d49?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=CSS3&logoColor=white)
 
+[npm-image]: https://img.shields.io/badge/npm-v1.0.5-blue
+[npm-url]: https://www.npmjs.com/package/npm-registry-nrs
