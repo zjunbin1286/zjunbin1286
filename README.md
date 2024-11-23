@@ -18,7 +18,7 @@
 
 [easypress](https://github.com/zjunbin1286/easypress) 
 
-🏓 基于 Vite 的 SSG 静态站点生成框架（A static site generator for the modern web）
+🚀 基于 Vite 的 SSG 静态站点生成框架（A static site generator for the modern web）
 
 
 [react-router-keepalive](https://github.com/zjunbin1286/react-router-keepalive) 
@@ -30,11 +30,9 @@
 
 ✨ 适用于 React 的简洁优雅的组件库（A concise and elegant component library suitable for React）
 
+[react-playground](https://github.com/zjunbin1286/react-playground) 
 
-[react-router-keepalive](https://github.com/zjunbin1286/easypress) 
-
-🚀 A static site generator for the modern web
-
+🎯 适用于 React 的 Playground 代码演练场
 
 ### My Skill Set
 
