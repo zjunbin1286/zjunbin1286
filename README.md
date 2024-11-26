@@ -43,5 +43,5 @@
 ![](https://img.shields.io/badge/HTML5-fc3d49?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=CSS3&logoColor=white)
 
-[npm-image]: https://img.shields.io/badge/npm-v1.0.5-blue
+[npm-image]: https://img.shields.io/badge/npm-v1.1.3-blue
 [npm-url]: https://www.npmjs.com/package/npm-registry-nrs
