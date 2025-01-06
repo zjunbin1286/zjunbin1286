@@ -6,9 +6,6 @@
 - 📫 How to reach me: 1669940775@qq.com
 - 😄 Read more about my JueJin: [here](https://juejin.cn/user/1627704066072712)
 
-### GitHub 
-![](https://github-readme-stats.vercel.app/api?username=zjunbin1286&show_icons=true&theme=transparent)
-
 ### My Projects
 [npm-registry-nrs](https://github.com/zjunbin1286/npm-registry-nrs) 
 
