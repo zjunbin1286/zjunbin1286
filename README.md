@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to FrontEnd/Web.
 - 📫 How to reach me: 1669940775@qq.com
-- 😄 Read more about my JueJin: [here](https://juejin.cn/user/1627704066072712)
+- 😄 Read more about me: [here](https://joeybin.cn)
 
 ### My Projects
 [npm-registry-nrs](https://github.com/zjunbin1286/npm-registry-nrs) 
