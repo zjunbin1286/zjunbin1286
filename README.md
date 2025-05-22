@@ -8,16 +8,21 @@
 
 ### My Projects
 
+[NovaPix AI（AI智能图片设计平台）](https://magic-image-ai.cn) 
+
+&#127912; 这是一个集 AI 生成、智能编辑、极速创作、资源管理于一体的综合性平台。目标是让创意更高效，AI 赋能图片生成与编辑，助力设计师与内容创作者轻松完成视觉创意。
+
+[Docs Unit 即时文档](https://docs-unity.online) 
+
+📒 基于 Next.js 的多人即时在线编辑文档。该 Docs 平台包含了现代文档编辑器所具备的功能，包括但不限于表格插入，字体定制，图片上传；支持 GitHub、Google 快捷登录；全面有效的邀请系统，和与组织内成员共同管理及编辑文档
+可以对一个文档发起讨论，建立了一个通知系统，可以跟踪左右提及和评论，随时@组织成员分享文档内容
+
 [npm-registry-nrs](https://github.com/zjunbin1286/npm-registry-nrs) 
 
 [![NPM version][npm-image]][npm-url]
 📦 npm-registry-nrs is an NPM source manager that allows you to quickly switch between NPM sources and supports managing image sources through addition, deletion, modification, and querying.
 （npm-registry-nrs 是一个 npm 源管理器，允许你快速地在 npm 源间切换，并且支持通过增删改查等管理镜像源。）
 
-[Docs Unit](https://docs-unity.online) 
-
-📒 基于 Next.js 的多人即时在线编辑文档。该 Docs 平台包含了现代文档编辑器所具备的功能，包括但不限于表格插入，字体定制，图片上传；支持 GitHub、Google 快捷登录；全面有效的邀请系统，和与组织内成员共同管理及编辑文档
-可以对一个文档发起讨论，建立了一个通知系统，可以跟踪左右提及和评论，随时@组织成员分享文档内容
 
 [easypress](https://github.com/zjunbin1286/easypress) 
 
