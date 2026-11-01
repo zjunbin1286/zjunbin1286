@@ -8,7 +8,7 @@
 
 ### My Projects
 
-[NovaPix AI（AI智能图片设计平台）](https://novapix-ai.online/) 
+[Novapix AI（AI智能图片设计平台）](https://novapix-ai.online/) 
 
 &#127912; 这是一个集 AI 生成、智能编辑、极速创作、资源管理于一体的 Canvas 多元设计平台。目标是让创意更高效，AI 赋能图片生成与编辑，助力设计师与内容创作者轻松完成视觉创意。
 
